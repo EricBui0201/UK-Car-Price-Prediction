@@ -37,3 +37,5 @@ Solution:
 * Continue to handle outliers and remediate the violated normality, or
 * Use other regression algorithms whose result is not impacted by the outliers such as Random forests, Decision Trees... 
 
+
+***Please refer to the presentation file for more information about the findings from the data analysis***

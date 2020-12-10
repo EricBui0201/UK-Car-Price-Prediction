@@ -13,7 +13,7 @@ The objective of this project is to build a model to predict the used car price 
 **2. Techniques**
 
 The car price prediction requires the regression supervised machine learning techniques among which I select the linear regression algorithm to train our model.
-During the training process, we will also check linear assumptions and evaluate the performance of the model.
+During the training process, we will also check the assumptions of OLS regression and evaluate the performance of the model.
 
 Used libraries:
 
